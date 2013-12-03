@@ -6,6 +6,8 @@ Provides a basic webserver for static files, serving files from directory: publi
 Prerequisites
 -------------
 
+Have NodeJS installed!
+
 Have grunt commandline installed globally:
 
     npm install --global grunt-cli

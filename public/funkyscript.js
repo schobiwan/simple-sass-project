@@ -1,3 +1,5 @@
 window.addEventListener('load', function () {
-    console.log('Website has been reloaded', Date.now());
+    var hostname = window.location.hostname;
+
+    console.log('Hello World');
 });
