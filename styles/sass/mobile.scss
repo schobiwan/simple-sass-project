@@ -1,9 +1,9 @@
 /**
- * Basic SASS file for all pages...
+ * Special mobile styles
  */
 
 @import 'stylelib/colors';
 
-h1 {
+body {
     color: $primaryFontColor;
 }

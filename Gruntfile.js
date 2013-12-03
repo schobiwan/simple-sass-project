@@ -13,7 +13,7 @@ module.exports = function gruntConfig(grunt) {
                     expand: true,
                     cwd: 'styles/sass',
                     src: [
-                        'basic.scss',    // common style
+                        '*.scss',    // common style
                     ],
                     dest: 'public/css',
                     ext: '.css'
